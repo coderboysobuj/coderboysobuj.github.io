@@ -46,5 +46,5 @@ console.log(result); // Output: 120
 
 ## Photos
 
-![img-description](https://pbs.twimg.com/profile_banners/1361270015908057089/1672463540/1500x500)
+![img](https://pbs.twimg.com/profile_banners/1361270015908057089/1672463540/1500x500)
 
