@@ -1,6 +1,6 @@
 ---
 title: How to make money as a software engineer?
-date: 2023-01-02 10:00:00 -500
+date: 2023-01-02 8:00:00 -500
 categories: [webdev, programming]
 tags: [webdev, programming, career, beginners]
 ---
