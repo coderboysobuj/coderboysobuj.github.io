@@ -5,7 +5,6 @@ categories: [webdev, programming]
 tags: [webdev, programming, career, beginners]
 ---
 
-
 **-Full-time employment:** Software engineers can work for a company as a full-time employee and receive a salary and benefits.
 
 **-Freelancing:** Some software engineers choose to work as freelancer, taking o short-term or project-based work from a variety of clients.
